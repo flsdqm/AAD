@@ -1,0 +1,7 @@
+mysqlclient==2.1.0
+SQLAlchemy==1.4.30
+pymysql==1.0.2
+mysql-connector-python==8.2.0
+streamlit==1.26.0
+pandas==2.1.2
+numpy==1.26.4
